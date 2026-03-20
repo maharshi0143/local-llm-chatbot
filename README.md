@@ -15,6 +15,10 @@ The workflow compares two prompt engineering strategies:
 
 Responses are logged into a markdown file so they can be manually scored for quality.
 
+## Video Demo
+
+- Demo Link: https://drive.google.com/file/d/183FV7aPAyFwluDlADEAT8P8qON69vnTi/view?usp=sharing
+
 ## Why This Project Matters
 
 Running inference locally is useful for privacy-sensitive workloads because customer data does not need to leave your network. This supports compliance efforts related to data protection regulations and removes recurring API costs.
